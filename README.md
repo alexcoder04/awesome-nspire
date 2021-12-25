@@ -1,11 +1,12 @@
 
 # Awesome Nspire
 
-List of awesome projects around the ti-nspire calculators.
+List of awesome projects around the TI-Nspire calculators.
 
 ## Development
 
  - [Inspired Lua Wiki](https://wiki.inspired-lua.org/) - an unofficial Lua Api documentation
+ - [hackspire](https://hackspire.org//index.php?title=Main_Page) - unofficial research and documentation
  - [Luna](https://github.com/ndless-nspire/Luna) - Create TNS files from Lua and XML
  - [TI-Resource-Merge](https://github.com/DaveDuck321/TI-Resource-Merge) - Insert images into Ti-Nspire Lua programs (use with Luna)
  - [Ndless](https://github.com/ndless-nspire/Ndless) - The TI-Nspire calculator extension for native applications
