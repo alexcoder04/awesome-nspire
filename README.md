@@ -5,6 +5,7 @@ List of awesome projects around the ti-nspire calculators.
 
 ## Development
 
+ - [Inspired Lua Wiki](https://wiki.inspired-lua.org/) - an unofficial Lua Api documentation
  - [Luna](https://github.com/ndless-nspire/Luna) - Create TNS files from Lua and XML
  - [TI-Resource-Merge](https://github.com/DaveDuck321/TI-Resource-Merge) - Insert images into Ti-Nspire Lua programs (use with Luna)
  - [Ndless](https://github.com/ndless-nspire/Ndless) - The TI-Nspire calculator extension for native applications
@@ -22,6 +23,7 @@ List of awesome projects around the ti-nspire calculators.
 ## Games
 
  - [Tetris-Nspire](https://github.com/DaveDuck321/Tetris-Nspire) - A clone of modern Tetris for the TI-Nspire written in lua
+ - [TI-Nspire-Minesweeper](https://github.com/Skayo/TI-Nspire-Minesweeper) - A simple Minesweeper-Clone made for the TI-Nspire with Lua
 
 ## Linux
 
