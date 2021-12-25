@@ -22,6 +22,7 @@ List of awesome projects around the ti-nspire calculators.
 
 ## Games
 
+ - [Cube Field](https://www.ticalc.org/archives/files/fileinfo/443/44308.html) - You have to avoid all the cubes. Every 1000 points, the colors change and the speed increases
  - [Tetris-Nspire](https://github.com/DaveDuck321/Tetris-Nspire) - A clone of modern Tetris for the TI-Nspire written in lua
  - [TI-Nspire-Minesweeper](https://github.com/Skayo/TI-Nspire-Minesweeper) - A simple Minesweeper-Clone made for the TI-Nspire with Lua
 
