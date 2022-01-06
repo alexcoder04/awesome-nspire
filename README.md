@@ -23,6 +23,10 @@ List of awesome projects around the TI-Nspire calculators.
  - [n-flashcards](https://github.com/lights0123/n-flashcards) - Flashcards for the TI-Nspire (requires Ndless)
  - [prime-checker](https://github.com/alexcoder04/prime-checker) - Check whether a number is primes (Lua)
 
+## Graphics
+
+ - [nSpaint](https://www.ticalc.org/archives/files/fileinfo/447/44726.html) - Create, edit and save images. Designed to help creating spirites for Lua programs (Lua)
+
 ## Games
 
  - [Cube Field](https://www.ticalc.org/archives/files/fileinfo/443/44308.html) - You have to avoid all the cubes. Every 1000 points, the colors change and the speed increases (Lua)
