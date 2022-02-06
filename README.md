@@ -26,6 +26,7 @@ List of awesome projects around the TI-Nspire calculators.
 ## Graphics
 
  - [nSpaint](https://www.ticalc.org/archives/files/fileinfo/447/44726.html) - Create, edit and save images. Designed to help creating spirites for Lua programs (Lua)
+ - [Tiny3D-Viewer](https://www.ticalc.org/archives/files/fileinfo/444/44416.html) - Represent 8 polyhedra in 3D! Choose the color, the rendering mode, the zoom... You also can draw 3D functions (Lua)
 
 ## Games
 
@@ -33,6 +34,7 @@ List of awesome projects around the TI-Nspire calculators.
  - [Tetris-Nspire](https://github.com/DaveDuck321/Tetris-Nspire) - A clone of modern Tetris (Lua)
  - [TI-Nspire-Minesweeper](https://github.com/Skayo/TI-Nspire-Minesweeper) - A Minesweeper-clone (Lua)
  - [Bobby Carrot](https://www.ticalc.org/archives/files/fileinfo/440/44058.html) - Puzzle game, help Bobby to eat all the carrots and avoid the traps (Lua)
+ - [Minecraft 2D](https://www.ticalc.org/archives/files/fileinfo/457/45729.html) - 2D clone of the popular Minecraft game (Lua)
 
 ## Linux
 
