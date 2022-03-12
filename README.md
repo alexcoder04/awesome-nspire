@@ -7,6 +7,8 @@ List of awesome projects around the TI-Nspire calculators.
 
  - [Inspired Lua Wiki](https://wiki.inspired-lua.org/) - an unofficial Lua Api documentation
  - [hackspire.org](https://hackspire.org//index.php?title=Main_Page) - unofficial research and documentation
+ - [Lua API Reference](https://education.ti.com/-/media/7EFB09CED41C4190AFF8F60283B6727A) - official Lua API reference from TI
+ - [Lua scripting guide](https://education.ti.com/-/media/710B5A95C80B4C3AA822CA65A1ECAB75) - Lua scripting introduction from TI
  - [Luna](https://github.com/ndless-nspire/Luna) - Create TNS files from Lua and XML
  - [TI-Resource-Merge](https://github.com/DaveDuck321/TI-Resource-Merge) - Insert images into Ti-Nspire Lua programs (use with Luna)
  - [nspire-merge](https://github.com/alexcoder04/nspire-merge) - Another script to merge Lua source files and image resources
