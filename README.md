@@ -11,8 +11,8 @@ Feel free to submit new/other projects or report mistakes via [issues](https://g
 
  - [Inspired Lua Wiki](https://wiki.inspired-lua.org/) - an unofficial Lua Api documentation *(status update September 2022: seems to have gone down)*
  - [hackspire.org](https://hackspire.org//index.php?title=Main_Page) - unofficial research and documentation
- - [Lua API Reference](https://education.ti.com/-/media/7EFB09CED41C4190AFF8F60283B6727A) - official Lua API reference from TI
- - [Lua scripting guide](https://education.ti.com/-/media/710B5A95C80B4C3AA822CA65A1ECAB75) - Lua scripting introduction from TI
+ - [Lua API Reference](./Docs/API_Reference.pdf) - official Lua API reference from TI *(https://education.ti.com/-/media/7EFB09CED41C4190AFF8F60283B6727A)*
+ - [Lua scripting guide](./Docs/Scripting_Guide.pdf) - Lua scripting introduction from TI *(https://education.ti.com/-/media/710B5A95C80B4C3AA822CA65A1ECAB75)*
 
 ### Tools
 
