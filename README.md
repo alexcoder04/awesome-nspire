@@ -3,6 +3,8 @@
 
 List of awesome projects around the TI-Nspire calculators.
 
+Feel free to submit new/other projects or report mistakes via [issues](https://github.com/alexcoder04/awesome-nspire/issues) or [pull requests](https://github.com/alexcoder04/awesome-nspire/pulls).
+
 ## Development
 
 ### Documentation
