@@ -18,5 +18,4 @@ jobs:
         git config user.name "${{ github.repository_owner }}"
         git config user.email "${{ github.repository_owner }}@protonmail.com"
         git remote add gitlab "https://oauth2:${{ secrets.GITLAB_TOKEN }}@gitlab.com/${{ github.repository }}.git"
-        git fetch gitlab
-        git push gitlab main
+        git push gitlab main:main
